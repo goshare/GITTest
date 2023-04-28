@@ -11,6 +11,7 @@
 		468F3FFF29FBF278004C7131 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 468F3FFE29FBF278004C7131 /* ContentView.swift */; };
 		468F400129FBF279004C7131 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 468F400029FBF279004C7131 /* Assets.xcassets */; };
 		468F400429FBF279004C7131 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 468F400329FBF279004C7131 /* Preview Assets.xcassets */; };
+		468F400D29FBF3A0004C7131 /* SecondView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 468F400C29FBF3A0004C7131 /* SecondView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		468F400029FBF279004C7131 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		468F400329FBF279004C7131 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		468F400529FBF279004C7131 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		468F400C29FBF3A0004C7131 /* SecondView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 			children = (
 				468F3FFC29FBF278004C7131 /* GITTestApp.swift */,
 				468F3FFE29FBF278004C7131 /* ContentView.swift */,
+				468F400C29FBF3A0004C7131 /* SecondView.swift */,
 				468F400029FBF279004C7131 /* Assets.xcassets */,
 				468F400529FBF279004C7131 /* Info.plist */,
 				468F400229FBF279004C7131 /* Preview Content */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				468F400D29FBF3A0004C7131 /* SecondView.swift in Sources */,
 				468F3FFF29FBF278004C7131 /* ContentView.swift in Sources */,
 				468F3FFD29FBF278004C7131 /* GITTestApp.swift in Sources */,
 			);
